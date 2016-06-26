@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "title": "Open Contracting Status",
-  "description": "Surveying the status of open contracting around the world",
+  "title": "Property",
+  "description": "",
   "type": "object",
   "version": 1,
   "required": [],
